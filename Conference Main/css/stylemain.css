@@ -534,7 +534,11 @@ a{
 		color: #FFF;
 		font-size: 20px;
 	}
-	
+	.p1{
+		color: rgb(0, 0, 0);
+		font-size: 18px;
+		text-align: center;
+	}
 	
 	.time  .content p{
 		color: #FFF;
