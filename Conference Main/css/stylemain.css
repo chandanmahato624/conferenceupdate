@@ -1910,3 +1910,24 @@ form .btn{
 }
 .news ul:hover { animation-play-state: paused }
 .news span:hover+ul { animation-play-state: paused }
+
+.venue h1{
+	text-align: center;
+	color: #0a0a0a;
+	font-size: 45px;
+}
+
+.venue h3{
+	text-align: center;
+	color: #0a0a0a;
+	font-size: 30px;
+}
+.text-venue p{
+	text-align: center;
+}
+.schedule h2{
+	padding-top: 20px;
+	text-align: center;
+	color: #f6f5f5;
+	font-size: 15px;
+}
