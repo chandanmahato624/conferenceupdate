@@ -1931,3 +1931,15 @@ form .btn{
 	color: #f6f5f5;
 	font-size: 15px;
 }
+
+
+
+@media screen and (max-width: 400px) {
+	*{
+		padding: 0px;
+		margin: 0px;
+	}
+	.four {
+		flex-direction: row;
+	}
+}
