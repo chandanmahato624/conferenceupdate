@@ -895,9 +895,9 @@ p {
 	text-transform: uppercase;
 }
 
-
 .product .popup-card .info p {
 	font-size: 15px;
+	text-align: justify;
 	margin: 10px;
 }
 
