@@ -36,6 +36,10 @@ a {
 	text-decoration: none;
 }
 
+ul.a {
+  list-style-type: circle;
+}
+
 /*header*/
 .header {
 	/* position: absolute; */
@@ -1047,8 +1051,8 @@ p {
 
 .tlist {
 	display: flex;
-	text-align: center;
-	justify-content: center;
+	/*text-align: left;*/
+	/*justify-content: center;*/
 }
 
 .list1 {
